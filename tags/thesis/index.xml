@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thesis | Tyler Sorensen</title>
+    <link>https://users.soe.ucsc.edu/~tsorensen/tags/thesis/</link>
+      <atom:link href="https://users.soe.ucsc.edu/~tsorensen/tags/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <description>thesis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2018 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://users.soe.ucsc.edu/~tsorensen/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>thesis</title>
+      <link>https://users.soe.ucsc.edu/~tsorensen/tags/thesis/</link>
+    </image>
+    
+    <item>
+      <title>PhD: Device-wide Barrier Synchronisation on Graphics Processing Units</title>
+      <link>https://users.soe.ucsc.edu/~tsorensen/publication/phdthesis/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 -0700</pubDate>
+      <guid>https://users.soe.ucsc.edu/~tsorensen/publication/phdthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MS: Testing and Exposing Weak GPU Memory Models</title>
+      <link>https://users.soe.ucsc.edu/~tsorensen/publication/mthesis/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 -0700</pubDate>
+      <guid>https://users.soe.ucsc.edu/~tsorensen/publication/mthesis/</guid>
+      <description>&lt;p&gt;Confirmed and repaired &lt;em&gt;CUDA by Example&lt;/em&gt; bug (&lt;!-- raw HTML omitted --&gt;errata&lt;!-- raw HTML omitted --&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BS: Towards Shared Memory Consistency Models for GPUS</title>
+      <link>https://users.soe.ucsc.edu/~tsorensen/publication/bsthesis/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 -0700</pubDate>
+      <guid>https://users.soe.ucsc.edu/~tsorensen/publication/bsthesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
