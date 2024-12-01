@@ -1,0 +1,67 @@
+network verification:2
+transition system:1
+operational semantics:1
+axiomatic semantics:1
+stuttering equivalence:1
+partial-order reduction:1
+model checking:2
+Software-Defined Networks:1
+data plane:1
+control plane:1
+temporal logic:1
+abstract machine:1
+bisimulation:1
+Kripke structure:1
+liveness:1
+safety:1
+OpenFlow: 1
+automata:1
+weak memory consistency:2
+persistency models:3
+optimisation:1
+weakly ordered memory model:1
+litmus testing:2
+fuzzing SPIR-V compilers:2
+memory model validation:3
+empirical validation: 3
+SPIR-V:2
+RDMA: 3
+(non-)volatile memory order:1
+persistent memory order:2
+cache line instructions:1
+persist instructions:1
+memory instruction reorderings:1
+mfence/sfence:1
+clflush:1
+GPU Computing:3
+structured control flow:1
+GPU programming languages:2
+Vulkan 3D graphics:2
+mechanised formal model:1
+structural dominance:2
+shading languages:1
+Alloy Analyser:2
+naga:1
+GLSL:1
+clspv:1
+tint:1
+concurrency:2
+OpenCL:1
+OpenGL:1
+WebGPU:1
+Khronos Group:1
+GLSL:1
+Model-based test generation:1
+axiomatisations of memory models:1
+conformance tests:1
+compiler-fuzzing:2
+fuzz-testing: 3
+SDN: 2
+semantic validity:1
+Intel-x86/ARM architecture:1
+CLFLUSHOPT:1
+TSO: 1
+DC CVAP:2
+chip interposers:1
+persistent programming:2
+persistence domain:1
